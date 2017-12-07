@@ -1,0 +1,143 @@
+{
+  "Country": [
+    {
+      "CountryId": "0",
+      "Name": "İtalya",
+      "Url":"/italya",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "Img": "http://via.placeholder.com/600x600",
+      "IsActive": true
+    },
+    {
+      "CountryId": "1",
+      "Name": "Türkiye",
+      "Url":"/turkiye",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "Img": "http://via.placeholder.com/600x600",
+      "IsActive": true
+    },
+    {
+      "CountryId": "2",
+      "Name": "Almanya",
+      "Url":"/almanya",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "Img": "http://via.placeholder.com/600x600",
+      "IsActive": true
+    },
+    {
+      "CountryId": "3",
+      "Name": "İspanya",
+      "Url":"/ispanya",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "Img": "http://via.placeholder.com/600x600",
+      "IsActive": true
+    }
+  ],
+  "City": [
+    {
+      "CountryId": "0",
+      "CityId": "1",
+      "Name": "Roma",
+      "Url": "/roma",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "IsActive": true,
+      "Gallery": [
+        {
+          "Id" : "0",
+          "Img": "http://via.placeholder.com/600x600",
+          "ImgName": "Roma Galeri 1"
+        },
+        {
+          "Id" : "1",
+          "Img": "http://via.placeholder.com/600x600/30801d/fff",
+          "ImgName": "Roma Galeri 2"
+        },
+        {
+          "Id" : "2",
+          "Img": "http://via.placeholder.com/600x600/20d02f/fff",
+          "ImgName": "Roma Galeri 3"
+        },
+        {
+          "Id" : "3",
+          "Img": "http://via.placeholder.com/600x600/80302f/fff",
+          "ImgName": "Roma Galeri 4"
+        },
+        {
+          "Id" : "4",
+          "Img": "http://via.placeholder.com/600x600/00302d/fff",
+          "ImgName": "Roma Galeri 5"
+        }
+      ]
+    },
+    {
+      "CountryId": "1",
+      "CityId": "1",
+      "Name": "Roma",
+      "Url": "/roma",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "IsActive": true,
+      "Gallery": [
+        {
+          "Id" : "0",
+          "Img": "http://via.placeholder.com/600x600",
+          "ImgName": "Roma Galeri 1"
+        },
+        {
+          "Id" : "1",
+          "Img": "http://via.placeholder.com/600x600/30801d/fff",
+          "ImgName": "Roma Galeri 2"
+        },
+        {
+          "Id" : "2",
+          "Img": "http://via.placeholder.com/600x600/20d02f/fff",
+          "ImgName": "Roma Galeri 3"
+        },
+        {
+          "Id" : "3",
+          "Img": "http://via.placeholder.com/600x600/80302f/fff",
+          "ImgName": "Roma Galeri 4"
+        },
+        {
+          "Id" : "4",
+          "Img": "http://via.placeholder.com/600x600/00302d/fff",
+          "ImgName": "Roma Galeri 5"
+        }
+      ]
+    }
+  ],
+  "News": [
+    {
+      "NewsId": "0",
+      "Title": "Roma da çok değişik olaylar",
+      "Url": "/romada-cok-degisik-olaylar",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "Img": "http://via.placeholder.com/600x600",
+      "IsActive": true
+    },
+    {
+      "NewsId": "0",
+      "Title": "Roma da çok değişik olaylar",
+      "Url": "/romada-cok-degisik-olaylar",
+      "Keywords": "roma, gezi, tatil, şehir, italya",
+      "ShortDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak.",
+      "LongDescription": "Eğer attığınız her adımda tarih ile iç içe olmak istiyorsanız gideceğiniz tek seyahat noktası Roma olacak. Ben İtalya seyahatimde adımlarken tek istediğim tarih ile iç içe olmak ve Roma dönemini içime solumaktı. Benim gezi notlarım biraz farklıdır. Takipçilerim bilir. Ağırlıklı olarak tarih dokusu vardır.",
+      "Img": "http://via.placeholder.com/600x600",
+      "IsActive": true
+    }
+  ]
+  
+}
